@@ -20,44 +20,9 @@ public class Main {
 int number = 12;
 	System.out.println(number%12);
 
-	     number =1;
-        System.out.println(number%12);
 
-        number = 2;
-        System.out.println(number%12);
-
-        number = 3;
-        System.out.println(number%12);
-
-        number = 4;
-        System.out.println(number%12);
-
-        number = 5;
-        System.out.println(number%12);
-
-         number =6;
-        System.out.println(number%12);
-
-         number =7;
-        System.out.println(number%12);
-
-         number =8;
-        System.out.println(number%12);
-
-         number =9;
-        System.out.println(number%12);
-
-         number =10;
-        System.out.println(number%12);
-
-         number =11;
-        System.out.println(number%12);
-
-         number =12;
-        System.out.println(number%13);
-
-
-
+int min = 60;
+System.out.println(min%60);
 
     }
 }
