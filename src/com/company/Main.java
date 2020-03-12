@@ -16,5 +16,8 @@ public class Main {
 	System.out.println("Give me a number between 1-60");
 	minutes = key.nextLine();
 	System.out.println("The time is "+hours + minutes);
+	int number = 45;
+	String answer = number > 60 ? "Greater than 60" : "Less than or equal to";
+	System.out.println(" The answer is: "+ answer);
     }
 }
